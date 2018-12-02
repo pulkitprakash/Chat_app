@@ -7,3 +7,4 @@ Search the users
 User settings manage
 Tagline for users
 Manage group admins
+Status of users
