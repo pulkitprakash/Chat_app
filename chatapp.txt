@@ -1,0 +1,7 @@
+This is a chat application for small groups with the following features:
+
+User login and auth
+Groups creation
+Logout
+Search the users
+User settings manage
