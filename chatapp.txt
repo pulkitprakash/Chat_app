@@ -13,4 +13,8 @@ update - 2
 update - 3
 update - 4
 update - 5
+<<<<<<< HEAD
 update - 7
+=======
+update - 6
+>>>>>>> 68a4be9584ff7ff37ef833fbdc2fffa248375f55
