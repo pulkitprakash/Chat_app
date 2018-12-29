@@ -9,9 +9,4 @@ Tagline for users
 Manage group admins
 Status of users
 update - 1
-<<<<<<< HEAD
-update - 2
-update - 3
-=======
 update - 4
->>>>>>> 42c8f17571db80e815b2f55afa0e1a859b59a0e5
